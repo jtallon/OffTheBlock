@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Off The Block</string>
+    <string name="area_codes">Area Codes</string>
+    <string name="logs">Logs</string>
+    <string name="no_logs">No logs yet…</string>
+    <string name="no_logs_criteria">No logs found for criteria.</string>
+    <string name="no_area_codes">No area codes yet…</string>
+    <string name="no_area_codes_criteria">No area codes found for criteria.</string>
+</resources>
